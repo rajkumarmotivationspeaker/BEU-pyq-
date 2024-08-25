@@ -115,3 +115,18 @@ h3{
 }
 
 
+.notes{
+	float: left;
+	color: white ;
+	background-color: blue;
+	margin-left: 110px;
+	margin-top: 80px;
+}
+
+#not{
+	background-color: #FFAF05;
+	color: black;
+}
+
+
+
