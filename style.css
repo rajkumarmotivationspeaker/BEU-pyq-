@@ -129,11 +129,14 @@ h3{
 }
 
 #gate{
-	marging-left:60px;
+	marging-left:40px;
 	background-color:red;
 
 
 }	
 
+#gatebtn{
+	background-color: #02F3FF;
+	color: black;
 
-
+}
