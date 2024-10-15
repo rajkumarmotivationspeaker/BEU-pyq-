@@ -144,12 +144,12 @@ h3{
 #appletter{
 	width: 98%;
 	height: 70px;
-	background-color: black;
+	background-color: white;
 	float: left;
 	margin-top: 30px;
 	margin-left: 1%;
 	box-shadow: 5px 4px 15px   black;
-	border-radius: 20px;
+	border-radius: 0px;
 	background-image: url('mozz.gif');
 	background-position: center;
 	background-size: 100% 100%;
